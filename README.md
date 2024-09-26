@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Romain 👋 Full Stack Developer
 
-<!--
-**Romain857/Romain857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Languages :
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cs,php,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Frameworks :
+
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,nextjs,react,nodejs,express,fastapi,dotnet,symfony,bootstrap,tailwind)](https://skillicons.dev)
+
+### My Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,figma,notion,azure,docker,linux)](https://skillicons.dev)
+  
+- 📝 Resume : Find out more on https://romainm.art/
